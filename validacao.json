@@ -1,0 +1,428 @@
+{
+ "method": "Para cada rodada a partir da 11ª, o modelo é ajustado só com os jogos anteriores e prevê a rodada seguinte.",
+ "firstPredictedRound": 11,
+ "total": {
+  "games": 4116,
+  "brier": 0.6105,
+  "baselineBrier": 0.6355,
+  "logloss": 1.0188,
+  "favoriteHitRate": 0.4934,
+  "market": {
+   "games": 4110,
+   "brier": 0.6105,
+   "marketBrier": 0.5961
+  }
+ },
+ "seasons": {
+  "2012": {
+   "games": 280,
+   "brier": 0.6156,
+   "baselineBrier": 0.6355,
+   "logloss": 1.0251,
+   "favoriteHitRate": 0.4786,
+   "market": {
+    "games": 280,
+    "brier": 0.6156,
+    "marketBrier": 0.6021
+   }
+  },
+  "2013": {
+   "games": 283,
+   "brier": 0.6095,
+   "baselineBrier": 0.6364,
+   "logloss": 1.0166,
+   "favoriteHitRate": 0.5194,
+   "market": {
+    "games": 283,
+    "brier": 0.6095,
+    "marketBrier": 0.6026
+   }
+  },
+  "2014": {
+   "games": 281,
+   "brier": 0.5931,
+   "baselineBrier": 0.6063,
+   "logloss": 0.9947,
+   "favoriteHitRate": 0.5302,
+   "market": {
+    "games": 281,
+    "brier": 0.5931,
+    "marketBrier": 0.5807
+   }
+  },
+  "2015": {
+   "games": 280,
+   "brier": 0.612,
+   "baselineBrier": 0.6271,
+   "logloss": 1.0295,
+   "favoriteHitRate": 0.5107,
+   "market": {
+    "games": 280,
+    "brier": 0.612,
+    "marketBrier": 0.5892
+   }
+  },
+  "2016": {
+   "games": 279,
+   "brier": 0.5913,
+   "baselineBrier": 0.606,
+   "logloss": 0.9866,
+   "favoriteHitRate": 0.5591,
+   "market": {
+    "games": 279,
+    "brier": 0.5913,
+    "marketBrier": 0.5755
+   }
+  },
+  "2017": {
+   "games": 280,
+   "brier": 0.6744,
+   "baselineBrier": 0.6717,
+   "logloss": 1.1122,
+   "favoriteHitRate": 0.3929,
+   "market": {
+    "games": 280,
+    "brier": 0.6744,
+    "marketBrier": 0.6641
+   }
+  },
+  "2018": {
+   "games": 281,
+   "brier": 0.5604,
+   "baselineBrier": 0.5997,
+   "logloss": 0.9461,
+   "favoriteHitRate": 0.5587,
+   "market": {
+    "games": 281,
+    "brier": 0.5604,
+    "marketBrier": 0.5474
+   }
+  },
+  "2019": {
+   "games": 280,
+   "brier": 0.5975,
+   "baselineBrier": 0.6529,
+   "logloss": 0.9977,
+   "favoriteHitRate": 0.4929,
+   "market": {
+    "games": 280,
+    "brier": 0.5975,
+    "marketBrier": 0.5928
+   }
+  },
+  "2020": {
+   "games": 280,
+   "brier": 0.6181,
+   "baselineBrier": 0.6453,
+   "logloss": 1.0289,
+   "favoriteHitRate": 0.4643,
+   "market": {
+    "games": 280,
+    "brier": 0.6181,
+    "marketBrier": 0.606
+   }
+  },
+  "2021": {
+   "games": 284,
+   "brier": 0.6196,
+   "baselineBrier": 0.6398,
+   "logloss": 1.0321,
+   "favoriteHitRate": 0.4859,
+   "market": {
+    "games": 284,
+    "brier": 0.6196,
+    "marketBrier": 0.5921
+   }
+  },
+  "2022": {
+   "games": 280,
+   "brier": 0.6,
+   "baselineBrier": 0.6488,
+   "logloss": 1.0059,
+   "favoriteHitRate": 0.4964,
+   "market": {
+    "games": 280,
+    "brier": 0.6,
+    "marketBrier": 0.5885
+   }
+  },
+  "2023": {
+   "games": 280,
+   "brier": 0.6334,
+   "baselineBrier": 0.648,
+   "logloss": 1.0544,
+   "favoriteHitRate": 0.4429,
+   "market": {
+    "games": 280,
+    "brier": 0.6334,
+    "marketBrier": 0.6166
+   }
+  },
+  "2024": {
+   "games": 283,
+   "brier": 0.6175,
+   "baselineBrier": 0.6354,
+   "logloss": 1.0295,
+   "favoriteHitRate": 0.4841,
+   "market": {
+    "games": 283,
+    "brier": 0.6175,
+    "marketBrier": 0.5878
+   }
+  },
+  "2025": {
+   "games": 280,
+   "brier": 0.5968,
+   "baselineBrier": 0.6352,
+   "logloss": 0.9962,
+   "favoriteHitRate": 0.4929,
+   "market": {
+    "games": 280,
+    "brier": 0.5968,
+    "marketBrier": 0.5936
+   }
+  },
+  "2026": {
+   "games": 185,
+   "brier": 0.6226,
+   "baselineBrier": 0.6485,
+   "logloss": 1.0294,
+   "favoriteHitRate": 0.4919,
+   "market": {
+    "games": 179,
+    "brier": 0.6227,
+    "marketBrier": 0.607
+   }
+  }
+ },
+ "variants": {
+  "mando-por-clube-l2-60": {
+   "games": 4116,
+   "brier": 0.6104,
+   "baselineBrier": 0.6355,
+   "logloss": 1.0186,
+   "favoriteHitRate": 0.4988,
+   "market": {
+    "games": 4110,
+    "brier": 0.6104,
+    "marketBrier": 0.5961
+   }
+  },
+  "mando-por-clube-l2-30": {
+   "games": 4116,
+   "brier": 0.6108,
+   "baselineBrier": 0.6355,
+   "logloss": 1.0192,
+   "favoriteHitRate": 0.4998,
+   "market": {
+    "games": 4110,
+    "brier": 0.6108,
+    "marketBrier": 0.5961
+   }
+  },
+  "mando-por-clube-l2-15": {
+   "games": 4116,
+   "brier": 0.6118,
+   "baselineBrier": 0.6355,
+   "logloss": 1.0207,
+   "favoriteHitRate": 0.4981,
+   "market": {
+    "games": 4110,
+    "brier": 0.6118,
+    "marketBrier": 0.5961
+   }
+  },
+  "mando-por-clube-l2-8": {
+   "games": 4116,
+   "brier": 0.6133,
+   "baselineBrier": 0.6355,
+   "logloss": 1.0231,
+   "favoriteHitRate": 0.499,
+   "market": {
+    "games": 4110,
+    "brier": 0.6133,
+    "marketBrier": 0.5961
+   }
+  },
+  "goleada-limite-2-resto-0": {
+   "games": 4116,
+   "brier": 0.6118,
+   "baselineBrier": 0.6355,
+   "logloss": 1.0201,
+   "favoriteHitRate": 0.492,
+   "market": {
+    "games": 4110,
+    "brier": 0.6118,
+    "marketBrier": 0.5961
+   }
+  },
+  "goleada-limite-3-resto-0": {
+   "games": 4116,
+   "brier": 0.6103,
+   "baselineBrier": 0.6355,
+   "logloss": 1.0183,
+   "favoriteHitRate": 0.4915,
+   "market": {
+    "games": 4110,
+    "brier": 0.6103,
+    "marketBrier": 0.5961
+   }
+  },
+  "goleada-limite-2-resto-0.5": {
+   "games": 4116,
+   "brier": 0.6106,
+   "baselineBrier": 0.6355,
+   "logloss": 1.0186,
+   "favoriteHitRate": 0.4939,
+   "market": {
+    "games": 4110,
+    "brier": 0.6106,
+    "marketBrier": 0.5961
+   }
+  },
+  "goleada-limite-3-resto-0.5": {
+   "games": 4116,
+   "brier": 0.6103,
+   "baselineBrier": 0.6355,
+   "logloss": 1.0184,
+   "favoriteHitRate": 0.493,
+   "market": {
+    "games": 4110,
+    "brier": 0.6103,
+    "marketBrier": 0.5961
+   }
+  },
+  "goleada-limite-4-resto-0": {
+   "games": 4116,
+   "brier": 0.6103,
+   "baselineBrier": 0.6355,
+   "logloss": 1.0185,
+   "favoriteHitRate": 0.4937,
+   "market": {
+    "games": 4110,
+    "brier": 0.6103,
+    "marketBrier": 0.5961
+   }
+  },
+  "temporada-anterior-0.25-19": {
+   "games": 4116,
+   "brier": 0.6141,
+   "baselineBrier": 0.6355,
+   "logloss": 1.0241,
+   "favoriteHitRate": 0.4876,
+   "market": {
+    "games": 4110,
+    "brier": 0.6141,
+    "marketBrier": 0.5961
+   }
+  },
+  "temporada-anterior-0.25-30": {
+   "games": 4116,
+   "brier": 0.6128,
+   "baselineBrier": 0.6355,
+   "logloss": 1.0222,
+   "favoriteHitRate": 0.4905,
+   "market": {
+    "games": 4110,
+    "brier": 0.6128,
+    "marketBrier": 0.5961
+   }
+  },
+  "temporada-anterior-0.25-38": {
+   "games": 4116,
+   "brier": 0.6122,
+   "baselineBrier": 0.6355,
+   "logloss": 1.0213,
+   "favoriteHitRate": 0.4908,
+   "market": {
+    "games": 4110,
+    "brier": 0.6122,
+    "marketBrier": 0.5961
+   }
+  },
+  "temporada-anterior-0.4-30": {
+   "games": 4116,
+   "brier": 0.6122,
+   "baselineBrier": 0.6355,
+   "logloss": 1.0213,
+   "favoriteHitRate": 0.4913,
+   "market": {
+    "games": 4110,
+    "brier": 0.6122,
+    "marketBrier": 0.5961
+   }
+  },
+  "temporada-anterior-0.15-fixo": {
+   "games": 4116,
+   "brier": 0.6115,
+   "baselineBrier": 0.6355,
+   "logloss": 1.0201,
+   "favoriteHitRate": 0.493,
+   "market": {
+    "games": 4110,
+    "brier": 0.6115,
+    "marketBrier": 0.5961
+   }
+  },
+  "temporada-anterior-0.4-fixo": {
+   "games": 4116,
+   "brier": 0.61,
+   "baselineBrier": 0.6355,
+   "logloss": 1.0182,
+   "favoriteHitRate": 0.4947,
+   "market": {
+    "games": 4110,
+    "brier": 0.61,
+    "marketBrier": 0.5961
+   }
+  },
+  "perfil-estilo-ufmg-2": {
+   "games": 4116,
+   "brier": 0.6257,
+   "baselineBrier": 0.6355,
+   "logloss": 1.0442,
+   "favoriteHitRate": 0.4862,
+   "market": {
+    "games": 4110,
+    "brier": 0.6257,
+    "marketBrier": 0.5961
+   }
+  },
+  "perfil-estilo-ufmg-4": {
+   "games": 4116,
+   "brier": 0.6248,
+   "baselineBrier": 0.6355,
+   "logloss": 1.0417,
+   "favoriteHitRate": 0.4886,
+   "market": {
+    "games": 4110,
+    "brier": 0.6248,
+    "marketBrier": 0.5961
+   }
+  },
+  "perfil-estilo-ufmg-8": {
+   "games": 4116,
+   "brier": 0.6246,
+   "baselineBrier": 0.6355,
+   "logloss": 1.0405,
+   "favoriteHitRate": 0.484,
+   "market": {
+    "games": 4110,
+    "brier": 0.6246,
+    "marketBrier": 0.5961
+   }
+  },
+  "perfil-estilo-ufmg-16": {
+   "games": 4116,
+   "brier": 0.6258,
+   "baselineBrier": 0.6355,
+   "logloss": 1.0415,
+   "favoriteHitRate": 0.4845,
+   "market": {
+    "games": 4110,
+    "brier": 0.6258,
+    "marketBrier": 0.5961
+   }
+  }
+ }
+}
