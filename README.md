@@ -8,6 +8,7 @@ Dados usados pelo site **Quinta Linha** (Campeonato Brasileiro Série A). Este r
 | `historico.json` | Resultados das temporadas anteriores (desde 2012) |
 | `validacao.json` | Medição da qualidade das previsões do modelo |
 | `calendario.json` | Jogos dos clubes em outras competições (só calendário) |
+| `partidas.json` | Ficha de cada jogo do Brasileirão (ESPN): escalações, números dos jogadores, estádio e árbitro |
 | `escudos.json` | Escudos dos clubes em texto (data URI) |
 | `compartilhar.png` | Imagem da prévia ao compartilhar o site |
 
