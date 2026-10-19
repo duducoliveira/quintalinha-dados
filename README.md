@@ -1,6 +1,6 @@
 # Quinta Linha — dados
 
-Dados usados pelo site **Quinta Linha** (Campeonato Brasileiro Série A). Este repositório é atualizado automaticamente a cada 3 horas a partir do projeto principal; não edite os arquivos à mão.
+Dados usados pelo site **Quinta Linha** (Campeonato Brasileiro Série A). Este repositório é atualizado automaticamente a cada 3 horas a partir do projeto principal; não edite os arquivos à mão. `site-config.json` e `anuncios/` são mantidos pelo painel administrativo do site.
 
 | Arquivo | Conteúdo |
 |---|---|
@@ -11,5 +11,7 @@ Dados usados pelo site **Quinta Linha** (Campeonato Brasileiro Série A). Este r
 | `partidas.json` | Ficha de cada jogo do Brasileirão (ESPN): escalações, números dos jogadores, estádio e árbitro |
 | `escudos.json` | Escudos dos clubes em texto (data URI) |
 | `compartilhar.png` | Imagem da prévia ao compartilhar o site |
+| `site-config.json` | Aviso, anúncios e ajustes do site (editado pelo painel administrativo) |
+| `anuncios/` | Imagens dos anúncios (enviadas pelo painel administrativo) |
 
 Fontes: openfootball/football.json (domínio público), ESPN e football-data.co.uk. Escudos e nomes são marcas dos respectivos clubes.
