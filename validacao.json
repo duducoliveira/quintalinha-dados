@@ -2,11 +2,11 @@
  "method": "Para cada rodada a partir da 11ª, o modelo é ajustado só com os jogos anteriores e prevê a rodada seguinte.",
  "firstPredictedRound": 11,
  "total": {
-  "games": 4158,
+  "games": 4159,
   "brier": 0.6097,
-  "baselineBrier": 0.6352,
+  "baselineBrier": 0.6351,
   "logloss": 1.0176,
-  "favoriteHitRate": 0.4947,
+  "favoriteHitRate": 0.4948,
   "market": {
    "games": 4158,
    "brier": 0.6097,
@@ -183,11 +183,11 @@
    }
   },
   "2026": {
-   "games": 227,
-   "brier": 0.6051,
-   "baselineBrier": 0.6406,
-   "logloss": 1.0061,
-   "favoriteHitRate": 0.5154,
+   "games": 228,
+   "brier": 0.6048,
+   "baselineBrier": 0.6395,
+   "logloss": 1.0056,
+   "favoriteHitRate": 0.5175,
    "market": {
     "games": 227,
     "brier": 0.6051,
