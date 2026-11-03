@@ -8,9 +8,9 @@
   "logloss": 1.0175,
   "favoriteHitRate": 0.4951,
   "market": {
-   "games": 4158,
-   "brier": 0.6097,
-   "marketBrier": 0.5953
+   "games": 4161,
+   "brier": 0.6096,
+   "marketBrier": 0.5952
   }
  },
  "seasons": {
@@ -189,9 +189,9 @@
    "logloss": 1.0038,
    "favoriteHitRate": 0.5217,
    "market": {
-    "games": 227,
-    "brier": 0.6051,
-    "marketBrier": 0.5891
+    "games": 230,
+    "brier": 0.6035,
+    "marketBrier": 0.5868
    }
   }
  },
