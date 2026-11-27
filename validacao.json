@@ -8,8 +8,8 @@
   "logloss": 1.0172,
   "favoriteHitRate": 0.4958,
   "market": {
-   "games": 4190,
-   "brier": 0.6091,
+   "games": 4193,
+   "brier": 0.6093,
    "marketBrier": 0.5944
   }
  },
@@ -189,9 +189,9 @@
    "logloss": 1.0007,
    "favoriteHitRate": 0.5305,
    "market": {
-    "games": 259,
-    "brier": 0.5971,
-    "marketBrier": 0.5761
+    "games": 262,
+    "brier": 0.5995,
+    "marketBrier": 0.576
    }
   }
  },
